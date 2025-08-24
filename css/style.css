@@ -1,0 +1,114 @@
+/* ----------------------------------index */
+section{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.hero-box .box p {
+width: 500px;
+}
+.hero-box .box img{
+width: 400px;
+}
+
+.no-decoration{
+    text-decoration: none;
+    color: rgb(241, 237, 237);
+}
+
+@media (max-width: 992px){
+    .hero-box .box p{
+        font-size: 14px;
+        width: 300px;
+    }
+    .hero-box .box img{
+        width: 300px;
+    }        
+}
+@media(max-width: 768px){
+    .hero {
+        padding-top: 50px;
+    }
+    .hero-box {
+        text-align: center;
+    }
+    .hero-box .box p{
+        width: 100%;
+    }
+}
+/* ---------------------------------------index */
+
+/* ---------------------------------------- about */
+.text-rata {
+    text-align: justify;
+}
+.about-box img {
+    width: 800px;
+}
+
+@media (max-width: 992px){
+    .about-box img {
+        width: 650px;
+    }
+}
+@media (max-width: 768px){
+    .about-box img {
+        width: 500px;
+    }
+}
+@media (max-width: 517px){
+    .about-box img {
+        width: 350px;
+    }
+}
+/* ---------------------------------------- about */
+
+/* ----------------------------------------ppdb -----------------*/
+  /* Styling untuk kartu */
+  .card {
+    width: 300px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+/* Styling untuk <summary> */
+details summary {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+}
+
+/* Gaya teks tambahan */
+
+
+/* Efek animasi */
+details[open] summary {
+    background-color: #e0e0e0;
+}
+
+/* -------------------------------------------ppdb---------------- */
+
+/* -------------------peraturan ---------------- */
+
+/* -------------------peraturan ---------------- */
+
+
+/* ----------------------navbar ----------------- */
+
+
+/* ----------------------navbar ----------------- */
+
+/* ---------------------==  popup  ==----------------- */
+.popup {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+/* ---------------------==  popup  ==----------------- */
