@@ -128,7 +128,7 @@
     </section>
     <!-- hero  -->
     <div>
-        <a href="rapor/index.html">
+        <a href="rapor/index.php">
             <i class="bi bi-person-circle"></i>
             <small>Cek Nilai Rapor</small>
     </div>

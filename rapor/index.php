@@ -13,12 +13,13 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+        <?php require "partialis/navbarDekstop.php" ?>
     <div class="wrapper">
       <div class="cover cover-left"></div>
       <div class="cover cover-right"></div>
 
       <div class="book">
-        <!-- profile page -->
+        <!-- profile pag e -->
         <div class="book-page page-left">
           <div class="profile-page">
             <img src="../img/logoAlmiftah.png" alt="" />

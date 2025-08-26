@@ -32,7 +32,7 @@
                     <a class="nav-link text-white" href="ppdb.php">Panduan PPDB</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-white" href="SK.php">Peraturan</a>
+                    <a class="nav-link text-white" href="rapor/index.php">Peraturan</a>
                 </li>
             </ul>
         </div>
