@@ -2,20 +2,21 @@
 <html lang="en">
 
 <head>
-    <!-- icon -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
-    <!-- ---- -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/png" href="img/logoAlmiftah.png">
     <title>Home | AlmiftahKauman</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="css/style.css">
+    <!-- icon -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
+    <!-- ---- -->
 </head>
 
 <body class="">
-    <?php require "navbar.php" ?>
+    <?php require "partialis/navbarMobile.php" ?>
+    <?php require "partialis/navbarDekstop.php" ?>
     <!---------------------------------------------------- banner --------------------------------------------->
     <div id="carouselExample" class="carousel slide container mt-2 mb-2" data-bs-ride="carousel">
         <!-- Indikator (Dots) -->
@@ -126,7 +127,11 @@
         </div>
     </section>
     <!-- hero  -->
-
+    <div>
+        <a href="rapor/index.html">
+            <i class="bi bi-person-circle"></i>
+            <small>Cek Nilai Rapor</small>
+    </div>
 
 
 

@@ -17,8 +17,8 @@
 <body>
 
     <!-- Navbar -->
-    <?php require "navbar.php"; ?>
-
+    <?php require "partialis/navbarMobile.php" ?>
+    <?php require "partialis/navbarDekstop.php" ?>
     <!-- Sidebar Offcanvas (Muncul saat layar kecil) -->
     <div class="offcanvas offcanvas-start bg-success text-white" tabindex="-1" id="sidebarMenu">
         <div class="offcanvas-header">
@@ -266,8 +266,8 @@
             <div class="bg-success text-center my-5">
                 <h5>Ditetapkan di : Nanggulan</h5>
                 <h5>Pada Tanggal : 21 Syawal 1439 H</h5>
-                <h5>Pengasuh I      Pengasuh II</h5>
-                <h5>KH Wajidil Minan       KH Hasan Qodari</h5>
+                <h5>Pengasuh I Pengasuh II</h5>
+                <h5>KH Wajidil Minan KH Hasan Qodari</h5>
                 <h5>Mengetahui</h5>
                 <h5>Sesepuh Pon Pes Al-Miftah</h5>
                 <h5>KH R Ahmad Jironi</h5>

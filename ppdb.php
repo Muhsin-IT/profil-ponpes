@@ -14,7 +14,8 @@
 </head>
 
 <body>
-    <?php require "navbar.php" ?>
+    <?php require "partialis/navbarMobile.php" ?>
+    <?php require "partialis/navbarDekstop.php" ?>
     <div class="text-center mt-3">
         <h1><b>INFO PPDB ONLINE</b></h1>
     </div>
