@@ -28,10 +28,10 @@
             <h3>Tatatertib dan Peraturan</h3>
 
             <div class="social-media">
-              <a href="https://web.facebook.com/almiftahkauman/"><i class="bx bxl-facebook"></i></a>
-              <a href="https://www.youtube.com/@almiftahkauman1973"><i class="bx bxl-youtube"></i></a>
-              <a href="https://www.instagram.com/almiftahkauman/"><i class="bx bxl-instagram"></i></a>
-              <a href="https://wa.me/6281999911973"><i class="bx bxl-whatsapp"></i></a>
+              <a href="https://web.facebook.com/almiftahkauman/" target="_blank" rel="noopener noreferrer"><i class="bx bxl-facebook"></i></a>
+              <a href="https://www.youtube.com/@almiftahkauman1973" target="_blank" rel="noopener noreferrer"><i class="bx bxl-youtube"></i></a>
+              <a href="https://www.instagram.com/almiftahkauman/" target="_blank" rel="noopener noreferrer"><i class="bx bxl-instagram"></i></a>
+              <a href="https://wa.me/6281999911973" target="_blank" rel="noopener noreferrer"><i class="bx bxl-whatsapp"></i></a>
             </div>
 
             <p>
@@ -49,12 +49,12 @@ Tata Tertib Pondok pesantren ditetapkan bla laonsdfua sezfd Lorem ipsum dolor si
         <div class="book-page page-right turn" id="turn-1">
           <!-- page 1 (work experience) -->
           <div class="page-front">
-            <h1 class="title">Work Experience</h1>
+            <h1 class="title">Tata Tertib Santri</h1>
 
             <div class="workeduc-box">
               <div class="workeduc-content">
                 <span class="year"
-                  ><i class="bx bxs-calendar"></i>2018 - 2020</span
+                  ><i class="bx bxs-calendar"></i>sds</span
                 >
                 <h3>Web Developer - Software Pro</h3>
                 <p>
