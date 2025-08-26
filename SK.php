@@ -105,7 +105,7 @@
                 </ol>
             </div>
 
-            <div class="bg-success p-2 text-dark bg-opacity-25">
+            <div class="bg-light p-2 text-dark bg-opacity-25">
                 <ol>
                     <h6 id="pasal2">Pasal II: Tentang Barang Elektronik dan Pembullyan</h6>
                     <ul>
@@ -122,7 +122,7 @@
                 </ol>
             </div>
 
-            <div class="bg-success p-2 text-dark bg-opacity-40">
+            <div class="bg-light p-2 text-dark bg-opacity-40">
                 <ol>
                     <h6 id="pasal3">Pasal III: Tentang Pengajian, Perizinan, dan Sepeda Motor</h6>
                     <ul>
