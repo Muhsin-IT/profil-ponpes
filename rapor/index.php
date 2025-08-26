@@ -14,6 +14,7 @@
   </head>
   <body>
         <?php require "../partialis/navbarDekstop.php" ?>
+        <div>
     <div class="wrapper">
       <div class="cover cover-left"></div>
       <div class="cover cover-right"></div>
@@ -312,7 +313,7 @@ Tata Tertib Pondok pesantren ditetapkan bla laonsdfua sezfd Lorem ipsum dolor si
             </div>
       </div>
     </div>
-
+</div>
     <!-- script -->
     <script src="script.js"></script>
   </body>
