@@ -28,10 +28,10 @@
             <h3>Tatatertib dan Peraturan</h3>
 
             <div class="social-media">
-              <a href="#"><i class="bx bxl-facebook"></i></a>
-              <a href="#"><i class="bx bxl-twitter"></i></a>
-              <a href="#"><i class="bx bxl-instagram"></i></a>
-              <a href="#"><i class="bx bxl-linkedin-square"></i></a>
+              <a href="https://web.facebook.com/almiftahkauman/"><i class="bx bxl-facebook"></i></a>
+              <a href="https://www.youtube.com/@almiftahkauman1973"><i class="bx bxl-youtube"></i></a>
+              <a href="https://www.instagram.com/almiftahkauman/"><i class="bx bxl-instagram"></i></a>
+              <a href="https://wa.me/6281999911973"><i class="bx bxl-whatsapp"></i></a>
             </div>
 
             <p>
