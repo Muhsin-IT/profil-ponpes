@@ -3,7 +3,7 @@
         <!-- Logo dan Nama Almiftah -->
         <a class="navbar-brand d-flex align-items-center" href="#">
             <img src="img/logoAlmiftah.png" alt="Logo" width="50" height="50" class="rounded"
-                style="filter: drop-shadow(0px 0px 2px rgb(0, 0, 0));">
+                style="filter: drop-shadow(0px 0px 2px rgba(0, 0, 0, 1));">
             <span class="fw-bold text-white ms-2" style="text-shadow: 1px 1px 2px rgba(0, 0, 0, 1);">Al MIFTAH</span>
         </a>
 
