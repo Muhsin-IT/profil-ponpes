@@ -15,6 +15,7 @@
 </head>
 
 <body class="">
+    <?php require "partialis/navbar.php" ?>
     <?php require "navbar.php" ?>
     <!---------------------------------------------------- banner --------------------------------------------->
     <div id="carouselExample" class="carousel slide container mt-2 mb-2" data-bs-ride="carousel">
