@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-        <?php require "partialis/navbarDekstop.php" ?>
+        <?php require "../partialis/navbarDekstop.php" ?>
     <div class="wrapper">
       <div class="cover cover-left"></div>
       <div class="cover cover-right"></div>
