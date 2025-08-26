@@ -31,32 +31,31 @@
     }
 
     body {
-        padding-bottom: 70px; /* supaya konten tidak tertutup navbar */
+        padding-bottom: 70px;
+        /* supaya konten tidak tertutup navbar */
     }
 </style>
 
 <!-- Bottom Navigation -->
 <div class="bottom-nav">
     <a href="/index.php" class="<?= basename($_SERVER['PHP_SELF']) == 'index.php' ? 'active' : '' ?>">
-        <i class="bi bi-house-door"></i>
+        <img src="/assets/house-door-fill.svg">
         <small>Home</small>
     </a>
-    <a href="/agenda.php" class="<?= basename($_SERVER['PHP_SELF']) == 'agenda.php' ? 'active' : '' ?>">
+    <a href="/about.php" class="<?= basename($_SERVER['PHP_SELF']) == 'about.php' ? 'active' : '' ?>">
         <i class="bi bi-calendar-event"></i>
-        <small>Agenda</small>
+        <small>About</small>
     </a>
-    <a href="/qosidah.php" class="<?= basename($_SERVER['PHP_SELF']) == 'qosidah.php' ? 'active' : '' ?>">
+    <a href="/ppdb.php" class="<?= basename($_SERVER['PHP_SELF']) == 'ppdb.php' ? 'active' : '' ?>">
         <i class="bi bi-music-note-list"></i>
-        <small>Qosidah</small>
+        <small>PPDB</small>
     </a>
-    <a href="/404.html" class="<?= basename($_SERVER['PHP_SELF']) == '404.html' ? 'active' : '' ?>">
+    <a href="/sk.php" class="<?= basename($_SERVER['PHP_SELF']) == 'sk.php' ? 'active' : '' ?>">
         <i class="bi bi-moon-stars"></i>
-        <small>Sholat</small>
+        <small>Peraturan</small>
     </a>
-    <a href="admin/dashboard.php" class="<?= basename($_SERVER['PHP_SELF']) == '../admin/dashboard.php' ? 'active' : '' ?>">
+    <a href="index.php" class="<?= basename($_SERVER['PHP_SELF']) == 'index.php' ? 'active' : '' ?>">
         <i class="bi bi-person-circle"></i>
-        <small>Admin</small>
+        <small>Saya</small>
     </a>
 </div>
-
-
