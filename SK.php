@@ -87,11 +87,11 @@
                 <li>Setiap santri dilarang menggunakan fasilitas Masjid selain pada waktu Sholat Jama`ah di Masjid.</li>
             </ol>
 
-            <div class="bg-success">
+            <div class="bg-success text-dark bg-opacity-10">
                 <h2 id="larangan" class="text-center my-5">Larangan-larangan Bagi Santri</h2>
             </div>
 
-            <div class="bg-success p-2 text-dark bg-opacity-10">
+            <div class="">
                 <ol>
                     <h6 id="pasal1">Pasal I: Tentang Percintaan dan Pencurian</h6>
                     <ul>
@@ -105,7 +105,7 @@
                 </ol>
             </div>
 
-            <div class="bg-light p-2 text-dark bg-opacity-25">
+            <div class=" p-2 text-dark">
                 <ol>
                     <h6 id="pasal2">Pasal II: Tentang Barang Elektronik dan Pembullyan</h6>
                     <ul>
@@ -144,7 +144,7 @@
                 </ol>
             </div>
 
-            <div class="bg-success p-2 text-dark bg-opacity-50">
+            <div class="p-2 text-dark bg-opacity-50">
                 <ol>
                     <h6 id="pasal4">Pasal IV: Tentang Keluar Lingkungan Pondok</h6>
                     <ul>
@@ -158,7 +158,7 @@
                 </ol>
             </div>
 
-            <div class="bg-success p-2 text-dark bg-opacity-60">
+            <div class=" p-2 text-dark bg-opacity-60">
                 <ol>
                     <h6 id="pasal5">Pasal V: Tentang Hiburan</h6>
                     <ul>
@@ -171,7 +171,7 @@
                 </ol>
             </div>
 
-            <div class="bg-success p-2 text-dark bg-opacity-70">
+            <div class=" p-2 text-dark bg-opacity-70">
                 <ol>
                     <h6 id="pasal6">Pasal VI: Tentang Pemeliharaan Aset dan Kebersihan Lingkungan</h6>
                     <ul>
@@ -186,7 +186,7 @@
                 </ol>
             </div>
 
-            <div class="bg-success p-2 text-dark bg-opacity-80">
+            <div class=" p-2 text-dark bg-opacity-80">
                 <ol>
                     <h6 id="pasal7">Pasal VII: Tentang Pakaian</h6>
                     <ul>
@@ -203,7 +203,7 @@
                 </ol>
             </div>
 
-            <div class="bg-success p-2 text-dark bg-opacity-90">
+            <div class="p-2 text-dark bg-opacity-90">
                 <ol>
                     <h6 id="pasal8">Pasal VIII: Tentang Sholat Jama’ah, Mujahadah, Belajar Wajib dan Kegiatan-Kegiatan yang Diadakan Oleh Pondok</h6>
                     <ul>
@@ -216,7 +216,7 @@
                 </ol>
             </div>
 
-            <div class="bg-success p-2 text-dark bg-opacity-100">
+            <div class="p-2 text-dark bg-opacity-100">
                 <ol>
                     <h6 id="pasal9">Pasal IX: Tentang Mengghosohob, Berambut Gondrong, Gundul, Semiran atau Kliwiran dan Aksesoris</h6>
                     <ul>
@@ -234,7 +234,7 @@
                 </ol>
             </div>
 
-            <div class="bg-success p-2 text-dark bg-opacity-110">
+            <div class="p-2 text-dark bg-opacity-110">
                 <ol>
                     <h6 id="pasal10">Pasal X: Tentang Tidur di Luar Lingkungan Pondok dan Tidur Ba’da Sholat Shubuh</h6>
                     <ul>
@@ -250,7 +250,7 @@
                 </ol>
             </div>
 
-            <div class="bg-success p-2 text-dark bg-opacity-120">
+            <div class="p-2 text-dark bg-opacity-120">
                 <ol>
                     <h6 id="pasal11">Pasal XI: Tentang Kegiatan yang Mengganggu Orang Lain</h6>
                     <ul>
@@ -263,7 +263,7 @@
                 </ol>
             </div>
 
-            <div class="bg-success text-center my-5">
+            <div class="bg-light text-center my-5">
                 <h5>Ditetapkan di : Nanggulan</h5>
                 <h5>Pada Tanggal : 21 Syawal 1439 H</h5>
                 <h5>Pengasuh I Pengasuh II</h5>
