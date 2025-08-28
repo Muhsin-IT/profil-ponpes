@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
 
 *{
     margin: 0;
@@ -203,7 +203,7 @@ body{
 }
 .workeduc-box {
     border-left: var(--border);
-    margin-top: 2rem;
+    margin-top: 0.5rem;
 }
 .workeduc-box .workeduc-content {
     position: relative;
@@ -222,14 +222,18 @@ body{
 }
 .workeduc-content .year {
     color: var(--main-color);
-    font-size: 1.2rem;
+    font-size: 1.1rem;
 }
 .workeduc-content h3{
     font-size: 1.4rem;
     margin: .3rem 0;
 }
 .workeduc-content p{
-    font-size: 1.15rem;
+    font-size: 0.5rem;
+    text-align: justify ;
+}
+.tatatertib li{
+    font-size: 0.7rem;
     text-align: justify ;
 }
 .workeduc-content .year i {

@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>3D- Portfolio Book</title>
+    <title>TATA TERTIB</title>
     <!-- BoxIcon -->
     <link
       href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-        <?php require "../partialis/navbarDekstop.php" ?>
+ 
         <div>
     <div class="wrapper">
       <div class="cover cover-left"></div>
@@ -50,43 +50,30 @@ Tata Tertib Pondok pesantren ditetapkan bla laonsdfua sezfd Lorem ipsum dolor si
           <!-- page 1 (work experience) -->
           <div class="page-front">
             <h1 class="title">Tata Tertib Santri</h1>
-
             <div class="workeduc-box">
               <div class="workeduc-content">
-                <span class="year"
-                  ><i class="bx bxs-calendar"></i>sds</span
-                >
-                <h3>Web Developer - Software Pro</h3>
                 <p>
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                  Molestiae minus eius nemo. Optio cupiditate nostrum commodi
-                  repellendus nemo quod in?
+                  <ol class="tatatertib">
+                      <li>Setiap santri baru wajib mendaftarkan diri kepada pengurus pondok beserta penyerahan santri oleh Wali santri kepada Bapak Kyai (Pengasuh Pondok).</li>
+                      <li>Setiap santri wajib meminta izin kepada keamanan pondok apabila meninggalkan pondok (tidak menginap) dan wajib meminta izin kepada Bapak Kyai apabila meninggalkan pondok hingga menginap, dengan menggunakan surat izin yang telah disediakan oleh keamanan pondok.</li>
+                      <li>Setiap santri wajib mengikuti pelajaran sesuai kelas dan kurikulum yang telah ditentukan.</li>
+                      <li>Setiap santri wajib mengikuti kegiatan yang diadakan oleh pondok (sholat jama'ah lima waktu, berjanjen, khitobah, haul rebo wage, ziaroh qubur ba'da sholat jum'at, dll.).</li>
+                      <li>Setiap santri wajib menjaga nama baik pondok pesantren.</li>
+                      <li>Setiap santri dilarang tidur dan bermain di lingkungan Sekolah/ Madrasah.</li>
+                      <li>Setiap santri wajib untuk belajar pada jam yang telah ditentukan.</li>
+                      <li>Setiap santri baru diwajibkan untuk tidak pulang sebelum 40 hari tinggal di pondok.</li>
+                      <li>Kepada wali santri yang menjenguk santri, dimohon untuk berpakaian sopan dengan ketentuan menjenguk harus pada hari jum’at pahing dan minggu pon setelah sekolah-ashar, bagi santri putra bertempat di Jerambah MTs, bagi santri putri di Lingkungan Musholla Putri.</li>
+                      <li>Setiap santri diharuskan tidur malam selambat-lambatnya pada jam 23.00 WIB di kamar masing-masing.</li>
+                      <li>Setiap santri harus bangun 30 menit sebelum masuk waktu shalat shubuh & wajib mengikuti mujahadah sebelum shubuh.</li>
+                      <li>Setiap santri diharuskan berdoa sebelum dan sesudah melakukan kegiatan apapun.</li>
+                      <li>Setiap santri diharuskan makan pada waktu dan tempat yang telah ditentukan oleh Pondok dengan memperhatikan etika.</li>
+                      <li>Setiap santri diharuskan merawat peralatan dan segala sesuatunya.</li>
+                      <li>Setiap santri tidur di kamar dan tempat tidurnya masing-masing.</li>
+                      <li>Setiap santri diharuskan tidur dengan memakai celana panjang & pakaian yang aman dari kemungkinan terbukanya aurat.</li>
+                      <li>Setiap santri dilarang melakukan perbuatan yang dapat mengganggu orang lain yang sedang tidur.</li>                  </ol>
                 </p>
               </div>
 
-              <div class="workeduc-content">
-                <span class="year"
-                  ><i class="bx bxs-calendar"></i>2021 - 2022</span
-                >
-                <h3>Web Designer - Software Pro</h3>
-                <p>
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                  Molestiae minus eius nemo. Optio cupiditate nostrum commodi
-                  repellendus nemo quod in?
-                </p>
-              </div>
-
-              <div class="workeduc-content">
-                <span class="year"
-                  ><i class="bx bxs-calendar"></i>2022 - 2023</span
-                >
-                <h3>Graphic Designer - Software Pro</h3>
-                <p>
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                  Molestiae minus eius nemo. Optio cupiditate nostrum commodi
-                  repellendus nemo quod in?
-                </p>
-              </div>
             </div>
             <span class="number-page">1</span>
 
@@ -98,42 +85,22 @@ Tata Tertib Pondok pesantren ditetapkan bla laonsdfua sezfd Lorem ipsum dolor si
 
           <!-- page 2 (education) -->
           <div class="page-back">
-            <h1 class="title">Education</h1>
-
             <div class="workeduc-box">
               <div class="workeduc-content">
-                <span class="year"
-                  ><i class="bx bxs-calendar"></i>2016 - 2018</span
-                >
-                <h3>College</h3>
                 <p>
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                  Molestiae minus eius nemo. Optio cupiditate nostrum commodi
-                  repellendus nemo quod in?
-                </p>
-              </div>
-
-              <div class="workeduc-content">
-                <span class="year"
-                  ><i class="bx bxs-calendar"></i>2018 - 2020</span
-                >
-                <h3>Intermediate</h3>
-                <p>
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                  Molestiae minus eius nemo. Optio cupiditate nostrum commodi
-                  repellendus nemo quod in?
-                </p>
-              </div>
-
-              <div class="workeduc-content">
-                <span class="year"
-                  ><i class="bx bxs-calendar"></i>2020 - 2024</span
-                >
-                <h3>BS Computer Science</h3>
-                <p>
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                  Molestiae minus eius nemo. Optio cupiditate nostrum commodi
-                  repellendus nemo quod in?
+                    <ol class="tatatertib">
+                      <li>Setiap santri dilarang berbicara saat berada didalam kamar mandi & WC kecuali karena alasan yang syar’i.</li>
+                      <li>Setiap santri menuju dan kembali dari kamar mandi dengan pakaian lengkap yang menutup aurat.</li>
+                      <li>Setiap santri diharuskan memakai kamar mandi/WC yang telah ditentukan oleh asrama.</li>
+                      <li>Setiap santri putra tidak diperkenankan memakai celana pendek (diatas lutut) keluar kamar dan asrama.</li>
+                      <li>Setiap santri diharuskan berpakaian sesuai dengan ketentuan Pondok dan syari’at Islam.</li>
+                      <li>Setiap santri wajib menjaga kebersihan kamar dan lingkungan asrama.</li>
+                      <li>Setiap santri wajib melaksanakan piket sesuai jadwal yang telah ditentukan.</li>
+                      <li>Setiap santri mengatur dan menjaga serta memelihara lemari, kasur, rak sepatu sesuai dengan ketentuan asrama.</li>
+                      <li>Setiap santri diharuskan menjaga ketenangan asrama dengan tidak membuat kegaduhan atau tindakan lainnya yang dapat mengganggu santri lainnya.</li>
+                      <li>Setiap santri diharuskan mematikan lampu, peralatan listrik, kran air dan mengunci kamar jika hendak meninggalkan ruangan atau kamar.</li>
+                      <li>Setiap santri dilarang menggunakan fasilitas Masjid selain pada waktu Sholat Jama`ah di Masjid.</li>
+                  </ol>
                 </p>
               </div>
             </div>
@@ -150,14 +117,14 @@ Tata Tertib Pondok pesantren ditetapkan bla laonsdfua sezfd Lorem ipsum dolor si
 
         <!-- page 3 & 4 -->
         <div class="book-page page-right turn" id="turn-2">
-          <!-- page 3 (my services) -->
+          <!-- page 3 (PERATURAN) -->
           <div class="page-front">
-            <h1 class="title">My Services</h1>
+            <h1 class="title">Peraturan Santri</h1>
 
             <div class="services-box">
               <div class="services-content">
                 <i class="bx bx-code-alt"></i>
-                <h3>Web Development</h3>
+                <h3>Pasal 1</h3>
                 <p>
                   Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nisi
                   quae accusamus aliquam.
@@ -167,7 +134,7 @@ Tata Tertib Pondok pesantren ditetapkan bla laonsdfua sezfd Lorem ipsum dolor si
 
               <div class="services-content">
                 <i class="bx bxs-paint"></i>
-                <h3>Creative Design</h3>
+                <h3>Pasal 2</h3>
                 <p>
                   Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nisi
                   quae accusamus aliquam.
@@ -177,7 +144,7 @@ Tata Tertib Pondok pesantren ditetapkan bla laonsdfua sezfd Lorem ipsum dolor si
 
               <div class="services-content">
                 <i class="bx bx-bar-chart-alt"></i>
-                <h3>Digital Marketing</h3>
+                <h3>Pasal 3</h3>
                 <p>
                   Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nisi
                   quae accusamus aliquam.
@@ -187,7 +154,7 @@ Tata Tertib Pondok pesantren ditetapkan bla laonsdfua sezfd Lorem ipsum dolor si
 
               <div class="services-content">
                 <i class="bx bx-search"></i>
-                <h3>SEO</h3>
+                <h3>Pasal 4</h3>
                 <p>
                   Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nisi
                   quae accusamus aliquam.
@@ -253,11 +220,11 @@ Tata Tertib Pondok pesantren ditetapkan bla laonsdfua sezfd Lorem ipsum dolor si
             <div class="book-page page-right turn" id="turn-3">
                 <!-- page 5 (latest project or many portfolio) -->
                 <div class="page-front">
-                    <h1 class="title">Latest Project</h1>
+                    <h1 class="title">Ponpes Al-Miftah</h1>
 
                     <div class="portfolio-box">
                         <div class="img-box">
-                            <img src="website 3.png" alt="">
+                            <img src="../img_default/pondok.png" alt="">
                         </div>
 
                         <div class="info-box">
@@ -269,8 +236,8 @@ Tata Tertib Pondok pesantren ditetapkan bla laonsdfua sezfd Lorem ipsum dolor si
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, vel ipsum quis possimus quaerat voluptatem temporibus saepe veniam?</p>
                         </div>
                         <div class="btn-box">
-                            <a href="#" class="btn">Source Code</a>
-                            <a href="#" class="btn">More Projects</a>
+                            <a href="#" class="btn">kembali</a>
+                            <a href="#" class="btn">Kesurga</a>
     
                         </div>
                     </div>
