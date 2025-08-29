@@ -17,7 +17,6 @@
 <body>
 
     <!-- Navbar -->
-    <?php require "partialis/navbarMobile.php" ?>
     <?php require "partialis/navbarDekstop.php" ?>
     <!-- Sidebar Offcanvas (Muncul saat layar kecil) -->
     <div class="offcanvas offcanvas-start bg-success text-white" tabindex="-1" id="sidebarMenu">

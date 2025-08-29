@@ -103,7 +103,7 @@
             <i class="bi bi-person-lines-fill"></i>
             <small>PPDB</small>
         </a>
-        <a href="/sk.php" class="<?= basename($_SERVER['PHP_SELF']) == 'sk.php' ? 'active' : '' ?>">
+        <a href="/SK.php" class="<?= basename($_SERVER['PHP_SELF']) == 'SK.php' ? 'active' : '' ?>">
             <i class="bi bi-book"></i>
             <small>Peraturan</small>
         </a>

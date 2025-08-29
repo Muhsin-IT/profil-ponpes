@@ -17,7 +17,6 @@
 
 <body>
     <!-- heade  -->
-    <?php require "partialis/navbarMobile.php" ?>
     <?php require "partialis/navbarDekstop.php" ?>
     <!-- about  -->
     <section class="about">
