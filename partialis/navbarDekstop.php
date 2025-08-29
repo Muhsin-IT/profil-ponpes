@@ -82,7 +82,7 @@
                         <a class="nav-link <?= basename($_SERVER['PHP_SELF']) == 'rapor/index.php' ? 'active' : '' ?>" href="rapor/index.php">Peraturan</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link <?= basename($_SERVER['PHP_SELF']) == 'login.php' ? 'active' : '' ?>" href="saya.php">Saya</a>
+                        <a class="nav-link <?= basename($_SERVER['PHP_SELF']) == 'acoun.php' ? 'active' : '' ?>" href="acoun.php">Saya</a>
                     </li>
                 </ul>
             </div>
