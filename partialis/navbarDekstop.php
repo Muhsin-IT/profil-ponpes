@@ -34,11 +34,6 @@
             font-size: 1.4rem;
         }
 
-        body {
-            padding-bottom: 70px;
-            /* supaya konten tidak tertutup navbar */
-        }
-
         /* nav atass */
         .navbar .nav-link.active {
             background-color: #ffc107;
@@ -47,6 +42,13 @@
             /* biar kontras */
             border-radius: 0.5rem;
             font-weight: bold;
+        }
+
+        /* Aktifkan padding hanya di layar kecil */
+        @media (max-width: 991.98px) {
+            body {
+                padding-bottom: 70px;
+            }
         }
     </style>
 

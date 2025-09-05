@@ -275,7 +275,7 @@
     </div>
 
     <!-- Footer -->
-    <?php require "footer.php"; ?>
+    <?php require "partialis/footer.php"; ?>
 
 </body>
 
