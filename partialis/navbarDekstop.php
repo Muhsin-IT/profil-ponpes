@@ -1,56 +1,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
     <!-- ---- -->
-    <link href="assets/css/main.css" rel="stylesheet">
+    <link href="partialis/partials.css" rel="stylesheet">
 
-    <style>
-        .bottom-nav {
-            position: fixed;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            background-color: #28a745;
-            border-top: 1px solid #444;
-            display: flex;
-            justify-content: space-around;
-            padding: 10px 0;
-            z-index: 999;
-        }
-
-        .bottom-nav a {
-            color: #ccc;
-            text-decoration: none;
-            font-size: 14px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-
-        .bottom-nav a.active,
-        .bottom-nav a:hover {
-            color: #fbff07ff;
-        }
-
-        .bottom-nav i {
-            font-size: 1.4rem;
-        }
-
-        /* nav atass */
-        .navbar .nav-link.active {
-            background-color: #ffc107;
-            /* kuning Bootstrap */
-            color: #000 !important;
-            /* biar kontras */
-            border-radius: 0.5rem;
-            font-weight: bold;
-        }
-
-        /* Aktifkan padding hanya di layar kecil */
-        @media (max-width: 991.98px) {
-            body {
-                padding-bottom: 70px;
-            }
-        }
-    </style>
 
     <!-- Bottom Navigation -->
 
@@ -64,8 +15,8 @@
             </a>
 
             <!-- Tulisan "Daftar PPDB" dengan link -->
-            <a href="https://ppdb.almiftah.online" target="_blank" class="bg-warning text-dark fw-bold px-3 py-1 rounded-pill shadow ms-auto me-4 text-decoration-none">
-                PPDB Online
+            <a href="https://ppdb.almiftah.online" target="_blank" class="ppdbatas bg-warning text-dark fw-bold px-3 py-1 rounded-pill shadow ms-auto me-4 text-decoration-none">
+                PSB Online
             </a>
 
             <!-- Menu Navbar (Hanya tampil di layar besar) -->
@@ -78,7 +29,7 @@
                         <a class="nav-link <?= basename($_SERVER['PHP_SELF']) == 'about.php' ? 'active' : '' ?>" href="about.php">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link <?= basename($_SERVER['PHP_SELF']) == 'ppdb.php' ? 'active' : '' ?>" href="ppdb.php">Panduan PPDB</a>
+                        <a class="nav-link <?= basename($_SERVER['PHP_SELF']) == 'psb.php' ? 'active' : '' ?>" href="psb.php">Panduan PSB</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link <?= basename($_SERVER['PHP_SELF']) == 'rapor/index.php' ? 'active' : '' ?>" href="rapor/index.php">Peraturan</a>
@@ -101,9 +52,9 @@
             <i class="bi bi-building-fill-exclamation"></i>
             <small>About</small>
         </a>
-        <a href="/ppdb.php" class="<?= basename($_SERVER['PHP_SELF']) == 'ppdb.php' ? 'active' : '' ?>">
+        <a href="/psb.php" class="<?= basename($_SERVER['PHP_SELF']) == 'psb.php' ? 'active' : '' ?>">
             <i class="bi bi-person-lines-fill"></i>
-            <small>PPDB</small>
+            <small>PSB</small>
         </a>
         <a href="/SK.php" class="<?= basename($_SERVER['PHP_SELF']) == 'SK.php' ? 'active' : '' ?>">
             <i class="bi bi-book"></i>

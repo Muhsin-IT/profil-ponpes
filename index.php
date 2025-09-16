@@ -115,11 +115,11 @@
         <div class="container">
             <div class="hero-box d-flex align-items-canter justify-content-between flex-md-row flex-column gap-md-0 gap-5">
                 <div class="box">
-                    <h1 class="fw-bold mb-3">Pndaftaran <br>Santri Baru <br>2025 <span class="text-success">Telah Di Buka</span></h1>
-                    <p class="lh-lg mb-4">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repudiandae tempore, aspernatur eius repellat perferendis assumenda earum vero ratione dolor? Facilis!</p>
+                    <h1 class="fw-bold mb-3">Pondok Pesantren<br><span class="text-success">Al-Miftah </span>Kauman</h1>
+                    <p class="lh-lg mb-4 text-justify">Pondok Pesantren Al-Miftah didirikan oleh KH.R. Ichsan Asyhari pada tahun 1964, sekembalinya beliau dari menuntut ilmu ke beberapa pondok pesantren besar di sekitar Jawa tengah dan Jawa timur. Pendirian ini berada disekitar pekarangan pribadi beliau, yang berada di dusun Kauman-Jatingarang kidul, Jatisarono, Nanggulan, Kulon Progo DIY.</p>
                     <div>
-                        <a href="ppdb.php" class="btn btn-success">Tata Cara Pendaftaran</a>
-                        <a href="#" class="btn btn-outline-success">Jenjang Pendidikan</a>
+                        <a href="ppdb.php" class="btn btn-success">Pendartaran Santri</a>
+                        <a href="#" class="btn btn-outline-success">Virtual Tour</a>
                     </div>
                 </div>
                 <div class="box logo">
