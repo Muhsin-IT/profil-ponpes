@@ -6,15 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/png" href="img/logoAlmiftah.png">
     <title>Home | AlmiftahKauman</title>
-    <link rel="stylesheet" type="text/css" href="css/style.css">
     <!-- icon -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
     <!-- ---- -->
+    <!-- <link rel="stylesheet" type="text/css" href="css/style.css"> -->
     <link href="assets/css/main.css" rel="stylesheet">
     <link rel="stylesheet" href="partialis/partials.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body class="">
@@ -128,6 +129,94 @@
             </div>
         </div>
     </section>
+    <!-- Pricing Section -->
+    <section id="pricing" class="pricing section bg-success text-dark bg-opacity-25">
+
+        <!-- Section Title -->
+        <div class="container text-center section-title" data-aos="fade-up">
+            <h2>Paket Bulanan</h2>
+            <p>Paket bulanan Santri, Pemaayaran Bulanan Dan Uang Saku Santri</p>
+        </div><!-- End Section Title -->
+
+        <div class="container">
+
+            <div class="row gy-3">
+
+                <div class="col-xl-3 col-lg-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="pricing-item">
+                        <h3>Paket 1</h3>
+                        <h4><sup>RP</sup>900.000<span> / Bulan</span></h4>
+                        <ul class="text-start">
+                            <li>Aida dere</li>
+                            <li>Nec feugiat nisl</li>
+                            <li>Nulla at volutpat dola</li>
+                            <li class="na">Pharetra massa</li>
+                            <li class="na">Massa ultricies mi</li>
+                        </ul>
+                        <div class="btn-wrap">
+                            <a href="#" class="btn-buy">Buy Now</a>
+                        </div>
+                    </div>
+                </div><!-- End Pricing Item -->
+
+                <div class="col-xl-3 col-lg-6" data-aos="fade-up" data-aos-delay="200">
+                    <div class="pricing-item featured">
+                        <h3>Paket 2</h3>
+                        <h4><sup>RP</sup>1.400.000<span> / Bulan</span></h4>
+                        <ul class="text-start">
+                            <li>Aida dere</li>
+                            <li>Nec feugiat nisl</li>
+                            <li>Nulla at volutpat dola</li>
+                            <li>Pharetra massa</li>
+                            <li class="na">Massa ultricies mi</li>
+                        </ul>
+                        <div class="btn-wrap">
+                            <a href="#" class="btn-buy">Buy Now</a>
+                        </div>
+                    </div>
+                </div><!-- End Pricing Item -->
+
+                <div class="col-xl-3 col-lg-6" data-aos="fade-up" data-aos-delay="400">
+                    <div class="pricing-item">
+                        <h3>Paket 3</h3>
+                        <h4><sup>RP</sup>1.600.000<span> / Bulan</span></h4>
+                        <ul class="text-start">
+                            <li>Aida dere</li>
+                            <li>Nec feugiat nisl</li>
+                            <li>Nulla at volutpat dola</li>
+                            <li>Pharetra massa</li>
+                            <li>Massa ultricies mi</li>
+                        </ul>
+                        <div class="btn-wrap">
+                            <a href="#" class="btn-buy">Buy Now</a>
+                        </div>
+                    </div>
+                </div><!-- End Pricing Item -->
+
+                <div class="col-xl-3 col-lg-6" data-aos="fade-up" data-aos-delay="400">
+                    <div class="pricing-item">
+                        <span class="advanced">Tertinggi</span>
+                        <h3>Paket 4</h3>
+                        <h4><sup>RP</sup>1.900.000<span> / Bulan</span></h4>
+                        <ul>
+                            <li>Aida dere</li>
+                            <li>Nec feugiat nisl</li>
+                            <li>Nulla at volutpat dola</li>
+                            <li>Pharetra massa</li>
+                            <li>Massa ultricies mi</li>
+                        </ul>
+                        <div class="btn-wrap">
+                            <a href="#" class="btn-buy">Buy Now</a>
+                        </div>
+                    </div>
+                </div><!-- End Pricing Item -->
+
+            </div>
+
+        </div>
+
+    </section><!-- /Pricing Section -->
+
     <!-- hero  -->
     <div>
         <a href="rapor/index.php">
