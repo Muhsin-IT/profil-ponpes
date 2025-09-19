@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/png" href="img/logoAlmiftah.png">
     <title>Home | AlmiftahKauman</title>
+    <!-- Main CSS File -->
+    <link href="assets/css/main.css" rel="stylesheet">
     <!-- icon -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -20,6 +22,55 @@
 
 <body class="">
     <?php require "partialis/navbarDekstop.php" ?>
+
+
+    <!-- hero1 Section  -->
+    <section id="hero1" class="hero1 section dark-background">
+
+        <div id="hero1-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
+
+            <div class="carousel-item active">
+                <img src="assets/hero-carousel/banner1.png" alt="">
+                <div class="carousel-container">
+                    <h2>Pon Pes Al-Miftah Kauman<br></h2>
+                    <p>Pondok Pesantren Al-Miftah didirikan oleh K.H.R. Ichsan Asyhary pada tahun 1964. Sebelumnya, beliau telah menuntut ilmu di beberapa pondok pesantren besar di Jawa Tengah dan Jawa Timur.</p>
+                    <a href="about.php" class="btn-get-started">Selengkapnya</a>
+                </div>
+            </div><!-- End Carousel Item -->
+
+            <div class="carousel-item">
+                <img src="assets/hero-carousel/banner3.png" alt="">
+                <div class="carousel-container">
+                    <h2>Informasi PSB</h2>
+                    <p>Informasi Pendaftarn Santri Baru, bisa secara online melalui website ppdb.almiftah.online Atau datang langsung ke Kantor Sekertariat Yayasan PonPes Almiftah jatisarono, Nanggulan, Kulon Progo, DI Yogyakarta</p>
+                    <a href="#featured-services" class="btn-get-started">Selengkapnya</a>
+                </div>
+            </div><!-- End Carousel Item -->
+
+            <div class="carousel-item">
+                <img src="assets/hero-carousel/banner2.png" alt="">
+                <div class="carousel-container">
+                    <h2>Peraturan Dan Tatatertib Santri</h2>
+                    <p>Wali Santri DI harapkan membaca peraturan dan tatatertib santri supaya apa ?, jika santri melakukan pelanggaran tidak tercuci otaknya oleh anaknya sendiri dan seolah olah pengurus yang salah</p>
+                    <a href="#featured-services" class="btn-get-started">Get Started</a>
+                </div>
+            </div><!-- End Carousel Item -->
+
+            <a class="carousel-control-prev" href="#hero1-carousel" role="button" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
+            </a>
+
+            <a class="carousel-control-next" href="#hero1-carousel" role="button" data-bs-slide="next">
+                <span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
+            </a>
+
+            <ol class="carousel-indicators"></ol>
+
+        </div>
+
+    </section><!-- /hero1 Section -->
+
+
     <!---------------------------------------------------- banner --------------------------------------------->
     <div id="carouselExample" class="carousel slide container mt-2 mb-2" data-bs-ride="carousel">
         <!-- Indikator (Dots) -->
@@ -112,7 +163,7 @@
     <!-- ------------------ popup --------------------- -->
 
     <!-- hero  -->
-    <section class="hero">
+    <section class="hero my-5">
         <div class="container">
             <div class="hero-box d-flex align-items-canter justify-content-between flex-md-row flex-column gap-md-0 gap-5">
                 <div class="box">
@@ -232,8 +283,10 @@
 
 
 
-
-
+    <!-- Main JS File -->
+    <script src="assets/js/main.js"></script>
+    <!-- ====================================================================== -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
     <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script> -->
