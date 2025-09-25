@@ -11,6 +11,8 @@
     />
     <!-- style -->
     <link rel="stylesheet" href="style.css" />
+        <!--iklan-->
+    <meta name="google-adsense-account" content="ca-pub-1975280027912626">
   </head>
   <body>
  

@@ -11,6 +11,8 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
+        <!--iklan-->
+    <meta name="google-adsense-account" content="ca-pub-1975280027912626">
 </head>
 
 <body>
@@ -36,6 +38,23 @@
 
                             <a href="index.php" class="link_404">Terimakasih</a>
                         </div>
+                                    <!--=====================================iklan============================-->
+                        <div>
+                            <p>permisi iklan lewat</p>
+                                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1975280027912626"
+                             crossorigin="anonymous"></script>
+                        <!-- display 1 -->
+                        <ins class="adsbygoogle"
+                             style="display:block"
+                             data-ad-client="ca-pub-1975280027912626"
+                             data-ad-slot="4703909872"
+                             data-ad-format="auto"
+                             data-full-width-responsive="true"></ins>
+                        <script>
+                             (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                        </div>
+                        <!--=====================================iklan============================-->
                     </div>
                 </div>
             </div>

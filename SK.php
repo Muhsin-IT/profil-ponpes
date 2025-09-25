@@ -12,6 +12,8 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="js/peraturan.js"></script>
     <link href="css/peraturan.css" rel="stylesheet">
+        <!--iklan-->
+    <meta name="google-adsense-account" content="ca-pub-1975280027912626">
 </head>
 
 <body>
@@ -85,7 +87,24 @@
                 <li>Setiap santri diharuskan mematikan lampu, peralatan listrik, kran air dan mengunci kamar jika hendak meninggalkan ruangan atau kamar.</li>
                 <li>Setiap santri dilarang menggunakan fasilitas Masjid selain pada waktu Sholat Jama`ah di Masjid.</li>
             </ol>
-
+            <!--=====================================iklan============================-->
+            <div>
+                <p>permisi iklan lewat</p>
+                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1975280027912626"
+                 crossorigin="anonymous"></script>
+            <!-- display 1 -->
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-1975280027912626"
+                 data-ad-slot="4703909872"
+                 data-ad-format="auto"
+                 data-full-width-responsive="true"></ins>
+            <script>
+                 (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+            </div>
+            <!--=====================================iklan============================-->
+            
             <div class="bg-success text-dark bg-opacity-10">
                 <h2 id="larangan" class="text-center my-5">Larangan-larangan Bagi Santri</h2>
             </div>

@@ -12,6 +12,8 @@
     <title>Almiftah | Tentang Kami</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="css/style.css">
+        <!--iklan-->
+    <meta name="google-adsense-account" content="ca-pub-1975280027912626">
 
 </head>
 
@@ -76,6 +78,23 @@
                     <p>Beliau adalah putra sulung dari 10 anak K.H.R. Ichsan Asyhary. Pendidikan beliau ditempuh di beberapa pondok pesantren, termasuk Pondok Pesantren Tegalsari, Magelang. Setelah menyelesaikan studinya, beliau kembali ke pesantren untuk mengabdikan diri sebagai qari’ utama.</p>
                     <p>Pada tahun 2008, setelah wafatnya K.H.R. Ichsan Asyhary, beliau ditunjuk oleh Pengurus Idaroh Tarekat Qadiriyyah wa Naqsyabandiyyah sebagai pengasuh Pondok Pesantren Al-Miftah, sekaligus menjabat sebagai Mursyid dalam tarekat tersebut.</p>
                 </ol>
+            <!--=====================================iklan============================-->
+            <div>
+                <p>permisi iklan lewat</p>
+                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1975280027912626"
+                 crossorigin="anonymous"></script>
+            <!-- display 1 -->
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-1975280027912626"
+                 data-ad-slot="4703909872"
+                 data-ad-format="auto"
+                 data-full-width-responsive="true"></ins>
+            <script>
+                 (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+            </div>
+            <!--=====================================iklan============================-->
                 <h2><b>
                         <li>Kondisi Pondok Pesantren</li>
                     </b></h2>
